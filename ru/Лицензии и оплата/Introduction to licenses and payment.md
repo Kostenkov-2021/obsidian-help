@@ -1,7 +1,4 @@
 ---
-cssclasses:
-  - list-cards
-  - list-cards-mobile-full
 permalink: payment
 ---
 Obsidian offers several services and licenses available for purchase.
