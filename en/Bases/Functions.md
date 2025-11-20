@@ -1,7 +1,7 @@
 ---
 permalink: bases/functions
 ---
-Functions are used in [[Introduction to Bases|Bases]] to manipulate data from [[Properties]] in filters and formulas. See the [[Bases syntax|bases syntax]] reference to learn more about how you can use functions.
+Functions are used in [[Introduction to Bases|Bases]] to manipulate data from [[properties]] in [[Views#Filters|filters]] and [[formulas]]. See the [[Bases syntax|bases syntax]] reference to learn more about how you can use functions.
 
 Aside from [[Functions#Global|Global]] functions, most functions depend on the type of value you want to modify:
 
@@ -168,7 +168,7 @@ The following fields are available for dates:
 `date.date(): date`
 
 - Returns a date object with the time removed.
-- Example: `now().date().format("YYYY-MM-DD HH:mm:ss"` returns a string such as "2025-12-31 00:00:00"
+- Example: `now().date().format("YYYY-MM-DD HH:mm:ss")` returns a string such as "2025-12-31 00:00:00"
 
 ### `format()`
 
@@ -200,7 +200,7 @@ The following fields are available for dates:
 
 ## String
 
-Functions you can use with a sequence of characters such as `"hello".`
+Functions you can use with a sequence of characters such as `"hello"`.
 
 ### Fields
 
